@@ -1,6 +1,12 @@
 # random_people_data
 
 A new Flutter project.
+![Screenshot_20230228-203550](https://user-images.githubusercontent.com/113037698/221894316-7b2b7101-cf8c-4c0a-8446-8d03c1a00bb2.jpg)
+![Screenshot_20230228-203534](https://user-images.githubusercontent.com/113037698/221894340-e6a5fd62-68b9-47e5-a838-9ede0cef76e6.jpg)
+
+
+https://user-images.githubusercontent.com/113037698/221894385-4a537fc1-7048-4e05-8e6d-ec297d70fd9d.mp4
+
 
 ## Getting Started
 
